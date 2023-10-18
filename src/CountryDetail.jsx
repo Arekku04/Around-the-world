@@ -7,8 +7,6 @@ const CountryDetail = () => {
   const handleNavigate = () => {
     navigate("/");
   };
-  //TODO:
-  //Extra: Learn how to display the border countries
   return (
     <>
       <div className="flex flex-col xl:px-72 md:px-10 sm:px-6 xl:py-24 sm:py-5 dark:text-white text-black">

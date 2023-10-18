@@ -5,9 +5,6 @@ import CountryDetail from "./CountryDetail";
 import { Route, Routes } from "react-router-dom";
 
 function App() {
-  /* TODO:
-  - Implement dark mode toggle
-  */
   return (
     <>
       <DataProvider>

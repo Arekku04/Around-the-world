@@ -59,10 +59,6 @@ const Body = () => {
     setFilteredOutput(filteredValues);
   };
 
-  /* IMPLEMENTING FILTER FUNCTIONALITY */
-  /* - Make the dropdown button functional
-     - Create logic that filters the data based on dropdown categories */
-
   /* Optional challenge */
   /* - Add a slider component that controls the number of population
        then display the countries with corresponding range of populations */
